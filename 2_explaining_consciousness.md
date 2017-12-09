@@ -29,6 +29,16 @@ So we may say that the mind is not only where thoughts and perceptions happen, b
 - appreciate, hate, love, *matter*
 - act with moral responsibility
 
-### Notes
+### 4. WHY DUALISM IS FORLORN
 
-This all seems misguided to me. I assume Dennet is posing the conventional thoughts that arise when we think about *what are my thoughts*, *what is the mind*, *what are they made of*, leading us to this *mind stuff* concept which to me smells of dualism. I suppose he does so to guide us towards dualism, which he will refute prior to start constructing something more convincing about what the mind and consciousness are.
+The pervious idea of the mind separated from the brain is *dualism*, largely discarded today and replaced by *materialism*: there is only *matter*, and the mind is nothing else than a physical phenomenon.
+
+What is so wrong with dualism? It basically states that at some part of the brain (the pineal gland, according to Descartes), the mind receives information from the brain and issues commands to it. However, since the brain is a physical system, whatever interacts with it must be a physical system as well, even if it is some kind of physical entity which we do not understand yet. Something like that is proposed by Roger Penrose in *The Emperor's New Mind*.
+
+Dualists insist htat mind is beyond human ken, and Dennet considers this the most disqualifying feature of it. Even if we cannot fully disprove dualism, *accepting it means giving up*.
+
+Even if materialism is widely accepting, overcoming the traditional views of dualism is hard and counterintuitive, and so is the theory proposed by Dennet.
+
+Some brain researchers study the brain as another organ, never trying to mention the mind or anything "mental". For others, more theoretically inclined, the mind is a new field of study. But even these try to postpone the questions about the nature of consciousness.
+
+Efforts to understand the brain have adopted a divide-and-conquer strategy. While this is a legitimate and useful approach, it also has the effect of distorting some of the concepts which arise from the study. We tend to study the peripheral systems of the mind/brain as rather isolated systems which feed some kind of decision center where conscious thought and experience happen. This central arena is thought as well to avail itself of material held in subservient systems of memory. **But this idea of division between this subservient systems and the center of the brain, (the thinking thing, what Dennet calls a "Cartesian Theater") is more of an artifact of the divide-an-conquer strategy than anything found in nature.**
