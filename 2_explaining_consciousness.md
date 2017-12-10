@@ -42,3 +42,15 @@ Even if materialism is widely accepting, overcoming the traditional views of dua
 Some brain researchers study the brain as another organ, never trying to mention the mind or anything "mental". For others, more theoretically inclined, the mind is a new field of study. But even these try to postpone the questions about the nature of consciousness.
 
 Efforts to understand the brain have adopted a divide-and-conquer strategy. While this is a legitimate and useful approach, it also has the effect of distorting some of the concepts which arise from the study. We tend to study the peripheral systems of the mind/brain as rather isolated systems which feed some kind of decision center where conscious thought and experience happen. This central arena is thought as well to avail itself of material held in subservient systems of memory. **But this idea of division between this subservient systems and the center of the brain, (the thinking thing, what Dennet calls a "Cartesian Theater") is more of an artifact of the divide-an-conquer strategy than anything found in nature.**
+
+### 5. THE CHALLENGE
+
+Dennet establishes in this chapter some rules for his project of formulating a theory of consciousness, which are the following:
+
+- *No Wonder Tissue allowed*: he will not propose new forces or substances external to the current understanding of physics.
+- *No feigning anesthesia*: if he denies the existence of some feature of consciousness, it relies upon him to show it.
+- *No nitpicking about empirical details*: he will try to get all the scientific facts right, but he will take into account theories and discoveries which have not been definitely adjective. He justifies this saying that without some of them, he would not avail himself of some of the most eye-opening advances.
+
+He will, using these rules, try to get to theory sketches, not to established and empirically confirmed  theories. These sketches of how the mind might work can open new lines of research, which might in turn refute the theories or modify them, but at least in this way we have a starting point.
+
+Along this chapter we have seen which are the basic features of the mystery of consciousness. We have as well seen why dualism should be discarded, since it would mean abandoning any attempts to explain consciousness. The mind must be the brain, but materialism doesn't guaranty disolving the puzzle of consciousness, only promises to explain it some day. In order to do so, we must abandon more of Descartes's legacy. Also, we must not neglect the fact about experience that we know "from the inside".
