@@ -1,0 +1,48 @@
+# 3. A Visit to the Phenomenological Garden
+
+## 1. WELCOME TO THE PHENOM
+
+The term *phenomenology* is used by philosophers and psychologists to refer to all the items of our conscious experience. Kant distinguished *"phenomena"* (things as they appear) from *"noumena"*, things as they are in themselves. *Phenomenology* came to refer during the 19th century to the descriptive study of any subject matter. The movement known as *Phenomenology*, grew up in the early 20th century, with the aim to find a new foundation for all knowledge, based on introspection. In a certain state of mind the Phenomenologist was supposed to realize the pure objects of conscious experience (*noemata*). No single, universally agreed method has been established for Phenomenology. We will refer as *phenomenology* to the items in conscious experience.
+
+Our *phenom* is divided in:
+
+- Experiences of the "external" world: sights, sounds, smells, limb positions, etc.
+- Experiences of the "internal" world: dreams, ideas...
+- Experiences of emotion or "affect": joy,anger, anxiety, etc.
+
+This taxonomy, however, owes more to superficial similarity and tradition than to any deep kinship among the phenomena. It is a starting point, anyway.
+
+## 2. OUR EXPERIENCE OF THE EXTERNAL WORLD
+
+For more than 9 maddening pages the author describes the mysteries of how we experience the world. How are sounds translated into a mental representation? How is vision represented in our brain? Is there a "picture" in the mind? He mentions as well the fact that we are often unaware of how our perception works: we have the feeling of a broad vision field while in reality we have good vision only about 3 degrees around the fovea; in what respects taste, we often taste more through smell than through our taste buds, yet we are not aware of it.
+
+## 3. OUR EXPERIENCE OF THE INTERNAL WORLD
+
+According to British Empiricists (Locke, Berkeley, Hume), the senses are what nourish the mind with phenomena which, once inside, can be manupulated and combined. It seems incorrect, though: only information enters the mind, and while this information can provoke some phenomenological item, it is hard to believe that the information itself could *be* that phenomenological item. However, we can acknowledge that, in some way, the inner world is dependent on sensory sources.
+
+We almost always consider vision as the major source of perceptual knowledge, and it is always difficult to imagine knowledge without mental imaginery which represents such knowledge. Is imaginary, then, the basis of comprehension? It doesn't seem so. While we often resort to images while comprehending something (a sentence, let's say), the images evoked by different people can have very little in common and even be a bit misleading, and that does not prevent them from comprehending. Dennet proposes the following example:
+
+*Yesterday my uncle fired his lawyer.*
+
+One might imagine his own uncle, despite knowing that it is not her uncle to whom the sentence is referring. We might as well evoke the things we did yesterday, or imagine a lawyer or the act of firing someone (although there is nothing as a standard image for such things). There is clear that this phenomenology appears in our mind while we are comprehending the sentence, but it seems hard to believe that comprehension arises by just evoking this mental images.
+
+Comprehension, then, cannote be accounted for by the accompanying phenomenology. A model of understanding which doesn't take into account the mental imaginery could be, however, unintuitive to us. It is often hard to imagine how would someone understand certain jokes, for example, without resorting to mental imaginery. There must be something right about it and, if the idea of "pictures in the head" is wrong, we will have to find some other way to think about it.
+
+Mental imaginery comes in all modalities, and not just as vision. We can imagine sounds, tastes, feelings... All these sensations can bring pleasure and suffering just like "real" sensations. Why do, then, real sensations matter so much more to us than their imagined counterparts? Much of our pain and pleasure comes from anticipated or recollected events, rather than by the actual moments of sensation, which constitute a minimal part of it.
+
+## 4. AFFECT
+
+Say you imagine a physically painful experience. While it **might** be somewhat disturbing, it is not so unpleasant and for sure you would not **feel** pain in the process. While dreaming, however, we can experience pain, even in absence of any physical injury. Contrary to this, some small twist while sleeping, that would cause pain if awake, can pass completely unnoticed while we are sleeping. Which of those are pains and which are not?
+
+Dennet doesn't answer that question :). He follows now another path, discussing whether pain makes sense or not from an evolutionary perspective, and wondering what are the uses of other emotions such as anger, fear, hatred or sympathy. Why do we have those phenomena in us and what are they?
+
+We will discuss those affective states in later chapters. For now, he wants to draw attention to the **undeniable importance** of affect to our conviction that consciousness is important. For that, consider fun: only a few species of animals seem capable of having fun. We won't have a complete explanation of consciousness until we have accounted for the role of it in permitting us to have fun.
+
+*(Either I'm missing something, or he is jumping from one topic to the other, making out weird connections on the fly between unrelated things).*
+
+He goes on talking about laughter. Why do we laugh? What's the purpose of it? Laughter is caused by hilarity. We need, however, an explanation that goes beyond that obvious truth. If we manage to find it, Dennet says, it won't satisfy everybody! Some would argue that by explaining "fun", for example, we would leave out the fun in itself. That's stupid, of course, since if we explain *fun* in terms of *fun*, we're leaving *fun* to be explained later, only postponing the explanation. Have I said *fun* already?
+
+Laughter is caused not directly by something funny, but by the feeling of *amusement* which in turn is caused by something funny. That's not enough, but at least it is an explicable fact of human psychology. We have to move beyound phenomenology to explain this things.
+
+These examples of phenomenology seem to have two features in common. They all are very close to us (this phenomena of us should be the things we know the best), and they arequite inaccessible to materialistic science, since it is very counterintuitive to imagine our mental phenomena as the result of a purely material event. Philosophers emphasize the problems in different ways. Some wonder about the difference between our epistemic relationships to our phenomenology and our epistemic relations to the external word. Other pose questions about the intrinsic properties of our phenomenology: how could some physical event be the fun that I'm having?
+
