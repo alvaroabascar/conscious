@@ -6,6 +6,10 @@ Starts with the classic thought experiment of the brain in a vat. What if we are
 
 Basically we can conclude that that we are not brains in vats. And we can conclude as well that strong hallucinations should be impossible, for the same reasons.
 
+### Notes
+
+That seems to me like a pretty weak argument against the brain in a vat theory. The scientists tinkering with our brain could be tricking us, not only by providing us with fake perceptions of the world, but also by making our brain think that the changes we cause in our environment make sense when they actually do not. In this way there would be no need for such infinite number of calculations. I think this reasoning makes more sense after reading the part 3 of this chapter.
+
 ## 2. PRANKSTERS IN THE BRAIN
 
 How do hallucinations happen? Is the brain responsible of elaborating and playing the whole story? Is it due to some "noise" or malfunctioning at a more phisical level, ie. at a nerve level, which translates into a fake perception? This last hypothesis seems plausible, but these kind of noise should produce only very weak hallucinations.
