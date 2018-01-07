@@ -12,7 +12,7 @@ That seems to me like a pretty weak argument against the brain in a vat theory. 
 
 ## 2. PRANKSTERS IN THE BRAIN
 
-How do hallucinations happen? Is the brain responsible of elaborating and playing the whole story? Is it due to some "noise" or malfunctioning at a more phisical level, ie. at a nerve level, which translates into a fake perception? This last hypothesis seems plausible, but these kind of noise should produce only very weak hallucinations.
+How do hallucinations happen? Is the brain responsible of elaborating and playing the whole story? Is it due to some "noise" or malfunctioning at a more physical level, ie. at a nerve level, which translates into a fake perception? This last hypothesis seems plausible, but these kind of noise should produce only very weak hallucinations.
 
 Do, then, strong hallucinations ever occur at all? There seems to be an inverse correlation between strength and frequency. However there is another interesting pattern, which is the victim's report on her unusual passivity in the face of the extravagances or incongruencies of the hallucination.
 
