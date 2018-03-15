@@ -2,7 +2,7 @@
 
 ## 1. THE BRAIN IN THE VAT
 
-Starts with the classic thought experiment of the brain in a vat. What if we are just a brain in a vat, under life support, with scientist trickering us into thinking that we are more than that? Although simulating our whole environment through nerve impulses in the right places is **possible in principle**, it is **impossible in fact**: I feel my environment, I decide to act on my body, and when, for example, my position changes, the feels I get from the environment change as well. There would be an endless amount of computation needed to simulate all these feels, changes in the environment, etc, and this combinatorial explosion of possibilities would make the problem intractable.
+Starts with the classic thought experiment of the brain in a vat. What if we are just a brain in a vat, under life support, with scientists trickering us into thinking that we are more than that? Although simulating our whole environment through nerve impulses in the right places is **possible in principle**, it is **impossible in fact**: I feel my environment, I decide to act on my body, and when, for example, my position changes, the feels I get from the environment change as well. There would be an endless amount of computation needed to simulate all these feels, changes in the environment, etc, and this combinatorial explosion of possibilities would make the problem intractable.
 
 Basically we can conclude that that we are not brains in vats. And we can conclude as well that strong hallucinations should be impossible, for the same reasons.
 
