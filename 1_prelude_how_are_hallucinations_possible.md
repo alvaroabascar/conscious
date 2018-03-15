@@ -12,7 +12,7 @@ That seems to me like a pretty weak argument against the brain in a vat theory. 
 
 ## 2. PRANKSTERS IN THE BRAIN
 
-How do hallucinations happen? Is the brain responsible of elaborating and playing the whole story? Is it due to some "noise" or malfunctioning at a more physical level, ie. at a nerve level, which translates into a fake perception? This last hypothesis seems plausible, but these kind of noise should produce only very weak hallucinations.
+How do hallucinations happen? Is the brain responsible of elaborating and playing the whole story? Is it due to some "noise" or malfunctioning at a more physical level, ie. at a nerve level, which translates into a fake perception? This last hypothesis seems plausible, but these kind of noises should produce only very weak hallucinations.
 
 Do, then, strong hallucinations ever occur at all? There seems to be an inverse correlation between strength and frequency. However there is another interesting pattern, which is the victim's report on her unusual passivity in the face of the extravagances or incongruencies of the hallucination.
 
@@ -22,7 +22,7 @@ There is, however, a more economical (and realistic) way in which hallucinations
 
 ## 3. A PARTY GAME CALLED PSYCHOANALYSIS
 
-A group of people stands in a room, and one of them (the dupe), is told that while he stays away, one of the others will be called upon to relate a recent dream. Once all know a dream, the dupe will come in, and start asking questions to figure out what the dream was. The other members, however, will answer *yes* or *no* following two rules:
+A group of people stand in a room, and one of them (the dupe), is told that while he stays away, one of the others will be called upon to relate a recent dream. Once all know the dream, the dupe will come in, and start asking questions to figure out what the dream was. The other members, however, will answer *yes* or *no* following two rules:
 
 1. If the last letter of the question belongs to the first half of the alphabet, they'll answer *yes*, otherwise they'll answer *no*.
 2. They will not contradict previously answered questions.
