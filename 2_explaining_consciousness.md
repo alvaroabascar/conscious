@@ -20,9 +20,9 @@ What properties does mind stuff have? The most obvious of it is that it *always 
 
 A question arises then: what is the *experiencer*? There seems to be no part of the brain which is the *thinker* or the *feeler*. When we think, is it our brain that thinks? Is it ourselves who think *with* our brain? Is there any difference? This idea of *self* distinct from the brain or body is deeply rooted in our way of thinking. If this is the case, such self must be made of mind stuff, as the cow was. We have then that not only the thoughts are made of mind stuff, but also the *self* itself seems to be made of it.
 
-If we reproduce exactly the functioning of the human brain when performing a certain task, such as tasting a wine, would the resulting machine be able to actually *appreciate* the wine? Such is the vision of *functionalism*. It wouldn't matter if the *thinker* is made of brain stuff or silicon, if the processes that happen in it are the same. It is hard to believe that a machine would be able to *appreciate* it, but isn't the brain a machine of sorts, with its mechanical explanation? It may seem compelling then that it is not the brain which does the appreciating: it is *the mind* which does it, and reproduction of the brain machinery wouldn't yield real appreciation.
+If we reproduce exactly the functioning of the human brain when performing a certain task, such as tasting a wine, would the resulting machine be able to actually *appreciate* the wine? Such is the vision of *functionalism*. It wouldn't matter if the *thinker* is made of brain stuff or silicon, if the processes that happens in it are the same. It is hard to believe that a machine would be able to *appreciate* it, but isn't the brain a machine of sorts, with its mechanical explanation? It may seem compelling then that it is not the brain which does the appreciating: it is *the mind* which does it, and reproduction of the brain machinery wouldn't yield real appreciation.
 
-So we may say that the mind is not only where thoughts and perceptions happen, but also where the *appreciating* takes place. Somehow he follows (this all seems pretty messy and disconnected to me): maybe it is where appreciation happens because it is also the source of our intentional actions. If doing things that matter depends on our consciousness, then *mattering* things must depend as well on consciousness. When we account someone responsible for something, it is becouse that person was *conscious* of it. When we perform a certain action it is, somehow, triggered by our conscious mind, by a *real me*, which cannot just be the brain or any part of it, since no part of the brain could:
+So we may say that the mind is not only where thoughts and perceptions happen, but also where the *appreciating* takes place. Somehow he follows (this all seems pretty messy to me): maybe it is where appreciation happens because it is also the source of our intentional actions. If doing things that matter depends on our consciousness, then *mattering* things must depend as well on consciousness. When we account someone responsible for something, it is becouse that person was *conscious* of it. When we perform a certain action it is, somehow, triggered by our conscious mind, by a *real me*, which cannot just be the brain or any part of it, since no part of the brain could:
 
 - be the medium in which we render the purple cow
 - be the thinking thing
@@ -35,9 +35,9 @@ The pervious idea of the mind separated from the brain is *dualism*, largely dis
 
 What is so wrong with dualism? It basically states that at some part of the brain (the pineal gland, according to Descartes), the mind receives information from the brain and issues commands to it. However, since the brain is a physical system, whatever interacts with it must be a physical system as well, even if it is some kind of physical entity which we do not understand yet. Something like that is proposed by Roger Penrose in *The Emperor's New Mind*.
 
-Dualists insist htat mind is beyond human ken, and Dennet considers this the most disqualifying feature of it. Even if we cannot fully disprove dualism, *accepting it means giving up*.
+Dualists insist that mind is beyond human ken, and Dennet considers this the most disqualifying feature of it. Even if we cannot fully disprove dualism, *accepting it means giving up*.
 
-Even if materialism is widely accepting, overcoming the traditional views of dualism is hard and counterintuitive, and so is the theory proposed by Dennet.
+Even if materialism is widely accepted, overcoming the traditional views of dualism is hard and counterintuitive, and so is the theory proposed by Dennet.
 
 Some brain researchers study the brain as another organ, never trying to mention the mind or anything "mental". For others, more theoretically inclined, the mind is a new field of study. But even these try to postpone the questions about the nature of consciousness.
 
@@ -48,7 +48,7 @@ Efforts to understand the brain have adopted a divide-and-conquer strategy. Whil
 Dennet establishes in this chapter some rules for his project of formulating a theory of consciousness, which are the following:
 
 - *No Wonder Tissue allowed*: he will not propose new forces or substances external to the current understanding of physics.
-- *No feigning anesthesia*: if he denies the existence of some feature of consciousness, it relies upon him to show it.
+- *No feigning anesthesia*: if he denies the existence of some feature of consciousness, it relies upon him to prove it.
 - *No nitpicking about empirical details*: he will try to get all the scientific facts right, but he will take into account theories and discoveries which have not been definitely accepted. He justifies this saying that without some of them, he would not avail himself of some of the most eye-opening advances.
 
 He will, using these rules, try to get to theory sketches, not to established and empirically confirmed  theories. These sketches of how the mind might work can open new lines of research, which might in turn refute the theories or modify them, but at least in this way we have a starting point.
