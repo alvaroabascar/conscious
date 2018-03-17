@@ -1,6 +1,6 @@
-# 2. Explaining Consciousness
+* 2. Explaining Consciousness
 
-## 1. PANDORA'S BOX: SHOULD CONSCIOUSNESS BE DEMYSTIFIED?
+** 1. PANDORA'S BOX: SHOULD CONSCIOUSNESS BE DEMYSTIFIED?
 
 He starts chattering about how we now understand things which previously were baffling mysteries, as consciousness is now. He tries to clear up the idea that, as some think (or even hope), consciousness is an unsolvable mystery. He keeps on going disecting whether it would be good or not to unravel what consciousness is. Would we loose something in the process? He believes that even in that case, the theoretical and moral gains from a good theory of consciousness would be worth it.
 
@@ -8,11 +8,11 @@ But would we really loose something if we come to understand consciousness? The 
 
 On the view of consciousness that Denet develops in this book, consciousness seems to be one of such concepts that depends largely on its associated concepts. If consciousness comes to be reduced to "mere matter in motion", what would happen to the concepts of "right" and "wrong", to our sense of moral and free will? He holds that his vision of consciousness would not dismiss such things. He ends up highlighting how when we solve a mystery, not only wonder does not disappear, but instead we find new beauties and complexities which can marvel us way more than the initial mystery.
 
-## 2. THE MYSTERY OF CONSCIOUSNESS
+** 2. THE MYSTERY OF CONSCIOUSNESS
 
 We are able to experience complex sensory phenomena, which in turn elicit complex emotional phenomena. And we are even able to reflect on such sensory and emotional events. How can all that be just brain happenings? It seems as though they are something else, caused by brain happenings but made of different stuff, in a different space.
 
-## 3. THE ATTRACTIONS OF MIND STUFF
+** 3. THE ATTRACTIONS OF MIND STUFF
 
 When we do imagine something, what is this imagination made of? Assuming we are able to analyze the brain and discern what the person is thinking about, the question would remain: what in your brain is purple when you imagine a purple cow? The neurotransmiters, the neural arrangements and patterns of activations... "None of those properties *is* the very property of the cow in your imagination". Since you imagined a purple cow, something somewhere must have had the properties of that cow at that time. This imagined cow must be rendered not in the medium of brain stuff, but in the medium of *mind stuff*.
 
@@ -29,7 +29,7 @@ So we may say that the mind is not only where thoughts and perceptions happen, b
 - appreciate, hate, love, *matter*
 - act with moral responsibility
 
-### 4. WHY DUALISM IS FORLORN
+*** 4. WHY DUALISM IS FORLORN
 
 The pervious idea of the mind separated from the brain is *dualism*, largely discarded today and replaced by *materialism*: there is only *matter*, and the mind is nothing else than a physical phenomenon.
 
@@ -43,7 +43,7 @@ Some brain researchers study the brain as another organ, never trying to mention
 
 Efforts to understand the brain have adopted a divide-and-conquer strategy. While this is a legitimate and useful approach, it also has the effect of distorting some of the concepts which arise from the study. We tend to study the peripheral systems of the mind/brain as rather isolated systems which feed some kind of decision center where conscious thought and experience happen. This central arena is thought as well to avail itself of material held in subservient systems of memory. **But this idea of division between this subservient systems and the center of the brain, (the thinking thing, what Dennet calls a "Cartesian Theater") is more of an artifact of the divide-an-conquer strategy than anything found in nature.**
 
-### 5. THE CHALLENGE
+*** 5. THE CHALLENGE
 
 Dennet establishes in this chapter some rules for his project of formulating a theory of consciousness, which are the following:
 
