@@ -1,4 +1,4 @@
 ** Project index
-   - [[file:1_prelude_how_are_hallucinations_possible.org][1. Prelude: how are hallucinations possible]]
-  [[file:2_explaining_consciousness.org][ - 2. Explaining consciousnes]]
-   [[file:3_a_visit_to_the_phenomenological_garden.org][- 3. A visit to the phenomenological garden]]
+1. [[file:1_prelude_how_are_hallucinations_possible.org][Prelude: how are hallucinations possible]]
+2. [[file:2_explaining_consciousness.org][Explaining consciousnes]]
+3. [[file:3_a_visit_to_the_phenomenological_garden.org][A visit to the phenomenological garden]]
