@@ -2,7 +2,7 @@
 
 ** 1. THE BRAIN IN THE VAT
 
-Starts with the classic thought experiment of the brain in a vat. What if we are just a brain in a vat, under life support, with scientist trickering us into thinking that we are more than that? Although simulating our whole environment through nerve impulses in the right places is **possible in principle**, it is **impossible in fact**: I feel my environment, I decide to act on my body, and when, for example, my position changes, the feels I get from the environment change as well. There would be an endless amount of computation needed to simulate all these feels, changes in the environment, etc, and this combinatorial explosion of possibilities would make the problem intractable.
+Starts with the classic thought experiment of the brain in a vat. What if we are just a brain in a vat, under life support, with scientists trickering us into thinking that we are more than that? Although simulating our whole environment through nerve impulses in the right places is **possible in principle**, it is **impossible in fact**: I feel my environment, I decide to act on my body, and when, for example, my position changes, the feels I get from the environment change as well. There would be an endless amount of computation needed to simulate all these feels, changes in the environment, etc, and this combinatorial explosion of possibilities would make the problem intractable.
 
 Basically we can conclude that that we are not brains in vats. And we can conclude as well that strong hallucinations should be impossible, for the same reasons.
 
@@ -12,7 +12,7 @@ That seems to me like a pretty weak argument against the brain in a vat theory. 
 
 ** 2. PRANKSTERS IN THE BRAIN
 
-How do hallucinations happen? Is the brain responsible of elaborating and playing the whole story? Is it due to some "noise" or malfunctioning at a more phisical level, ie. at a nerve level, which translates into a fake perception? This last hypothesis seems plausible, but these kind of noise should produce only very weak hallucinations.
+How do hallucinations happen? Is the brain responsible of elaborating and playing the whole story? Is it due to some "noise" or malfunctioning at a more physical level, ie. at a nerve level, which translates into a fake perception? This last hypothesis seems plausible, but these kind of noises should produce only very weak hallucinations.
 
 Do, then, strong hallucinations ever occur at all? There seems to be an inverse correlation between strength and frequency. However there is another interesting pattern, which is the victim's report on her unusual passivity in the face of the extravagances or incongruencies of the hallucination.
 
@@ -22,7 +22,7 @@ There is, however, a more economical (and realistic) way in which hallucinations
 
 ** 3. A PARTY GAME CALLED PSYCHOANALYSIS
 
-A group of people stands in a room, and one of them (the dupe), is told that while he stays away, one of the others will be called upon to relate a recent dream. Once all know a dream, the dupe will come in, and start asking questions to figure out what the dream was. The other members, however, will answer *yes* or *no* following two rules:
+A group of people stand in a room, and one of them (the dupe), is told that while he stays away, one of the others will be called upon to relate a recent dream. Once all know the dream, the dupe will come in, and start asking questions to figure out what the dream was. The other members, however, will answer *yes* or *no* following two rules:
 
 1. If the last letter of the question belongs to the first half of the alphabet, they'll answer *yes*, otherwise they'll answer *no*.
 2. They will not contradict previously answered questions.
