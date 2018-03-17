@@ -1,8 +1,4 @@
 * 3. A Visit to the Phenomenological Garden
-  :PROPERTIES:
-  :ORDERED:  t
-  :END:
-
 
 ** 1. WELCOME TO THE PHENOM
 
