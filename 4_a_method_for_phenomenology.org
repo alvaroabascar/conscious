@@ -1,0 +1,93 @@
+* 4. A method for phenomenology
+
+** 1. FIRST PERSON PLURAL
+
+Every science needs precise methods of description and analysis, so that
+scientists understand each other. This seems to be a still not fully covered
+need of phenomenology. Surprisingly, it has long been agreed that /we all
+agree/ on what we find when we look at our own phenomenology.
+
+The tradition in philosophy concerning phenomenology has been to introspect
+and share the process with what Dennet calls the /first-person-plural
+presumption/: the writer assumes that what he finds in her/his phenomenology
+is shared by the reader, and the reader have always accepted this.
+
+But we often find controversy and contradiction in the claims made under these
+mutual agreements, so something must wrong. Either we are not as alike as we
+think we are, and people join the school of phenomenology which sounds right
+to them, so that at the end each school is basically right about its members,
+and mistakenly overgeneralizes.
+
+Or maybe introspection is not so reliable. We tend to assume that we are always
+right about what we think and what we feel: we have "privileged access" to our
+inner world. Maybe even if we are basically alike, in our phenomenology, some
+observers get it completely wrong when they try to describe it. Or maybe we are
+fooling ourselves about how the activity of introspection really works. Perhaps
+instrospection is not just "looking and seeing", but it includes as well a lot
+of /theorizing/.
+
+It is not very hard to find cases when we are *not right* about our experience.
+For example, people is surprised when they find out that they cannot recognize
+a card with their pheripheral vision, until it is almost completely centered in
+their vision. Dennet does not state that we have no privileged access
+at all to our conscious experience, but he proposes that we tend to think we
+are much more immune to error than we really are.
+
+In the previous chapter Dennet proposed some experiments in which we analyzed
+the causes and effects of our phenomenology. This goes against the spirit of
+"pure" phenomenology: phenomenologist agree that since we are not authorative
+about the physiological causes and effects of our phenomenology, we should
+ignore such causes and effects in our attempt to give a description of what we
+find in everyday experience. Dennet suggests that in following this rule we
+would probably miss many things of the phenom.
+
+** 2. THE THIRD-PERSON PERSPECTIVE
+
+In order to study phenomenology we need to be very careful about our method.
+Dennet explained in the previous section the risks of the /firs-person
+perspective/. This method was discarded by psychology, when Introspectionism
+led to Behaviorism. Behaviorism developed a /third-perso perspective/: since
+we cannot objectively verify what is going on in our mind, behaviorist would
+not speculate about it and relied on facts gathered "from the outside", which
+could be objectively measured.
+
+The idea is that since we cannot "see directly" into people's minds, facts
+about mental events are not among the data of science. The challenge then is
+to construct a theory of mental events, using the data permited by the
+scientific method. This theory will need to be constructed from the
+third-person point of view.
+
+** 3. THE METHOD OF HETEROPHENOMENOLOGY
+
+Dennet's goal is to present here the /neutral/ path leading from objective
+physical science (and its third-person point of view) to a method of
+phenomenological description of our subjective experiences.
+
+Which entities have consciousness? We can only be sure about human adults,
+although they could be /zombies/ in the phylosophical sense (humans which
+behave exactly like a regular human, but are not conscious at all). Dennet's
+method does not make assumptions about the consciousness of the subjects
+under study (apparently normal adult human beings), but focuses in this group
+because, if consciousness is to be found somewhere, it is in them.
+
+One important difference between studying humans and other entities is that
+in the first case there is often verbal communication between the researcher
+and the human being studied (either to obtain informed consent, or to provide
+instructions, etc.).
+
+Gathering the information emitted by the subject is not a major problem for
+science, and can be solved in an objective manner. Once this information is
+gathered (e.g. as text), we must move past it to interpret it as /speech acts/.
+
+The interpretation as /speech acts/ requires what Dennet calls the /intentional
+stance/: we treat the emitter as a rational agent with beliefs, desires and
+other mental states that exhibit /intentionality/, and whose actions can be
+explained on the basis of these states. The noises are therefore interpreted as
+things the subject /wanted to say/.
+
+We need the /intentional stance/ to provide instructions to the subjects, to
+reach agreement and to reduce ambiguity by means of asking for clarifications.
+There are times, however, when the presumption is problematic, specially when
+the subject exhibits some pathologies. 
+
+** 4. FICTIONAL WORLDS AND HETEROPHENOMENOLOGICAL WORLDS
